@@ -1,0 +1,71 @@
+.frame
+{
+    padding: 100px; 
+    margin-bottom: 20px; 
+    border: 1px dashed #333333;
+    background-color: white;
+}
+
+#progress
+{
+    cursor:progress;
+}
+
+#wait
+{
+    cursor:wait;
+}
+
+#crosshair
+{
+    cursor:crosshair;
+}
+
+#text
+{
+    cursor:text;
+}
+
+#not-allowed
+{
+    cursor:not-allowed;
+}
+
+#ns-resize
+{
+    cursor:ns-resize;
+}
+
+#ew-resize
+{
+    cursor:ew-resize;
+}
+
+#nwse-resize
+{
+    cursor:nwse-resize;
+}
+
+#nesw-resize
+{
+    cursor:nesw-resize;
+}
+
+#all-scroll
+{
+    cursor:all-scroll;
+}
+
+#pointer
+{
+    cursor:pointer;
+}
+
+#link-munyu
+{
+    cursor:url(munyu_cursor_ex.cur);
+}
+
+body{
+    background-color: #c9f8bb;
+}
