@@ -2,7 +2,7 @@
 
 ## ■使い方
 
-1. このフォルダごと、次の位置に移動させます。 → C:\Windows\Cursors
+1. munyu_cursorフォルダを、次の位置に移動させます。 → C:\Windows\Cursors
 
 1. Windowsの設定（歯車マーク） > 「Bluetoothとデバイス」 > 「マウスの追加設定」　→　「ポインター」タブ
 
