@@ -32,3 +32,6 @@
 | 移動                     | `munyu_cursor_move.cur`                           | 
 | リンク選択               | `munyu_cursor_link.ani`                           | 
 | リンクむにゅ             | `munyu_cursor_ex.cur`                             | 
+
+## ■動作確認用ページ
+[こちらのページで動作確認ができます](https://tomavle.github.io/munyucursor/cursortest/)
